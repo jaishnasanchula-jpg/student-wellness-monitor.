@@ -1,0 +1,2 @@
+# student-wellness-monitor.
+a mental health platform with daily mood check-ins, sentiment analysis, personalized wellness recommendations, and trend visualization. Deliver a responsive wellness app with tracking capabilities.
